@@ -30,3 +30,7 @@ The source repository is licensed under the GNU Affero General Public License v3
 ## Safe use
 
 Use these tools only with systems, files, and networks you own or are authorized to assess. Use sample data for demonstrations, and never commit real credentials or sensitive data.
+
+## Investigation report
+
+- [SIEM Brute Force and Lateral Movement](siem-brute-force-lateral-movement-lab-report.md) — synthetic Docker SIEM case study with alert validation and MITRE ATT&CK mapping.
